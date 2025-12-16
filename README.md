@@ -141,12 +141,6 @@ This allows quick testing without manual setup.
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*Add screenshots of the GUI here if available.*
-
----
-
 ## 🚀 Future Improvements
 
 * Persistent storage (database or file system)
